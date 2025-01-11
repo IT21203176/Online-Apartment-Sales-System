@@ -44,7 +44,7 @@ Download the [Project Overview](pdfs/Online-Apartment-Sales-System-Overview.pdf)
 ## Installation Instructions
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Online-Apartment-Sales-System.git
+   git clone https://github.com/IT21203176/Online-Apartment-Sales-System.git
 
 2. Set up a local server (e.g., XAMPP, WAMP).
 3. Place the project folder in the htdocs directory.
